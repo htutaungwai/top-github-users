@@ -1,6 +1,6 @@
 {
   "devMode": "false",
   "locations":[
-     { "country":  "myanmar", "geoName": "Myanmar", "cities": ["yangon", "mandalay", "naypyitaw", "bago", "mawlamyine", "taunggyi"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg" },
+     { "country":  "myanmar", "geoName": "Myanmar", "cities": [ "naypyitaw"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg" },
   ]
 }
